@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~9.1.9",
     "@angular/platform-browser-dynamic": "~9.1.9",
     "@angular/router": "~9.1.9",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "highcharts": "^8.1.0",
     "highcharts-angular": "^2.4.0",
